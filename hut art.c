@@ -1,15 +1,15 @@
 //Write a function to draw a rocket.
 #include <stdio.h>
 
- void rocket(void);
+ void hut(void);
 
  int main(void)
  {
-     rocket();
+     hut();
      return 0;
  }
 
-  void rocket(void)
+  void hut(void)
   {
       printf("        __________________________________       \n");
       printf("       /  \\                              \\     \n");
